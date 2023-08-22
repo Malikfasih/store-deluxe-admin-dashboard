@@ -6,6 +6,8 @@
 
 - Used Shadcn UI for the Admin!
 - Admin dashboard serves as both CMS, Admin and API!
+- Used Zustand for fast and scalable state-management.
+- Used Zod for strict form validations.
 - You will be able to control mulitple vendors / stores through this single CMS! (For example you can have a "Shoe store" and a "Laptop store" and a "Suit store", and our CMS will generate API routes for all of those individually!)
 - You will be able to create, update and delete categories!
 - You will be able to create, update and delete products!
