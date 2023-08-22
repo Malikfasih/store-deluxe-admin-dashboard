@@ -51,7 +51,6 @@ export async function POST(req: Request) {
         orderItems: true,
       },
     });
-    // console.log("updated order detail", order);
 
     const productIds = order.orderItems.map((orderItem) => orderItem.productId);
 
