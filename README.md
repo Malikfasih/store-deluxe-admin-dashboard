@@ -1,5 +1,7 @@
 # Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
 
+![deluxe-admin-dashboard](https://github.com/Malikfasih/store-deluxe-admin-dashboard/assets/90088021/e2f24813-081d-49f4-804b-7b32e457b450)
+
 ## Key Features:
 
 Used Shadcn UI for the Admin!
